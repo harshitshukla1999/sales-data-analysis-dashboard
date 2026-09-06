@@ -1,0 +1,29 @@
+============================================================
+SALES DATA — KEY PERFORMANCE INDICATORS
+============================================================
+Total Revenue        : ₹53,391,813.22
+Total Profit          : ₹15,898,085.78
+Total Orders          : 5,985
+Average Order Value   : ₹8,920.94
+Overall Profit Margin : 29.78%
+
+-- Revenue by Category --
+  Furniture       ₹32,337,649.35  (60.6%)
+  Electronics     ₹11,632,175.51  (21.8%)
+  Apparel         ₹6,252,558.55  (11.7%)
+  Groceries       ₹1,773,960.59  (3.3%)
+  Stationery      ₹1,395,469.22  (2.6%)
+
+-- Revenue by Region --
+  South           ₹11,356,753.50
+  West            ₹10,855,603.40
+  Central         ₹10,672,559.98
+  North           ₹10,267,669.74
+  East            ₹10,239,226.60
+
+-- Top 5 Products by Revenue --
+  Desk Lamp            ₹7,369,056.92
+  Standing Desk        ₹6,857,485.04
+  Office Chair         ₹6,501,474.83
+  Filing Cabinet       ₹6,225,850.15
+  Bookshelf            ₹5,383,782.41
